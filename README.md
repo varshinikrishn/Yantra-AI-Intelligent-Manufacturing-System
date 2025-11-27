@@ -24,5 +24,16 @@ The system was tested with simulated industrial data and designed for real-time 
 - NumPy  
 - Streamlit  
 - Plotly  
-- GPT-4 API  
+- GPT-4 API
+
+## How to Run the Dashboard
+pip install -r requirements.txt
+streamlit run yantra_code.py
+
+## Author
+**Varshini Krishnamurthy**  
+Department of Computer Science  
+University of Sheffield  
+
+
 
