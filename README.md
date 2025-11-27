@@ -26,4 +26,3 @@ The system was tested with simulated industrial data and designed for real-time 
 - Plotly  
 - GPT-4 API  
 
-## How to Run the Dashboard
